@@ -15,4 +15,4 @@ These APIs require credentials and the following steps will guide you to get the
 
 ### NY Taxi Fare prediction API
 
-Your app will be visible shortly at `https://YOUR_GITHUB_NICKNAME.github.io/taxi-fare-interface`.
+The app is available at `https://caronarthur.github.io/taxi-fare-interface/`.
